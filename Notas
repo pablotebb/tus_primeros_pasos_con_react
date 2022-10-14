@@ -1,0 +1,27 @@
+Mirar: https://www.youtube.com/watch?v=cHKCQPDpCgQ&t=9877s
+
+(instalar primero Nodejs)
+
+$ npx create-react-app practica-1
+(Instalamos un proyecto -practica-1- react)
+
+$ cd practica-1
+
+$ code .
+(lanzamos, el editor, visual code)
+
+$ npm start
+(arrancamos el proyecto)
+
+(borramos todos lo que esté dentro de public/, y src/)
+
+public/index.html
+src/index.js, ...
+
+Mirar: 34:07
+
+JSX - JavascriptXML
+
+Mirar: 57:18
+
+Nota: boton Windows + . (nos muestra Emoijis)
